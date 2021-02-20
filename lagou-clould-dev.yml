@@ -3,3 +3,5 @@ datasource:
     url: jdbc:mysql://localhost:3306/lagou?serverTimezone=UTC
     username: root
     password: root
+test:
+    test1: 123456
