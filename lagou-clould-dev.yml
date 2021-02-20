@@ -4,4 +4,4 @@ datasource:
     username: root
     password: root
 test:
-    test1: 123456789
+    test1: 123
